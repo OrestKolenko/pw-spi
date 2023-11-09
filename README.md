@@ -12,7 +12,7 @@ tworzy nowy katalog "pw-spi"
 git clone https://github.com/OrestKolenko/pw-spi.git
 
 # kolon do aktualnego katalogu
-git clone https://github.com/OrestKolenko/pw-spi.git .
+git clone https://github.com/OrestKolenko/pw-spi.git .pu
 git clone https://github.com/OrestKolenko/pw-spi.git /nowy-katalog
 
 # dodanie pliku do staging
