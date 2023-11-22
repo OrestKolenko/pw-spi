@@ -1,0 +1,21 @@
+Rozne
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
+Licz: 1
+Licz: 2
+Licz: 3
+Licz: 4
+Licz: 5
+Witaj, Jan
+Witaj, Orest
+Plik istnieje
+Nazwa hosta: PWPC6225
+Informacja o uzytkowniku: X-7759
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
